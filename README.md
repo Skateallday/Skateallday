@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skateallday
 - 👀 I’m interested in hill walking, snowboarding and web development
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on interactive maps for ski resorts
 
 <!---
